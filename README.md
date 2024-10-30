@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+This is the github account of D1 thesis group
+
+### Members:
+- Julian Cadenas
+- Joshua Cormier
+- Daryl Guerzon
+- Christian Javier
+
 <!--
 **d1thesis/d1thesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
