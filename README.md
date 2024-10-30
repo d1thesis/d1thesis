@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the github account of D1 thesis group
+This is the github account of D1 thesis group from feu tech (1st term 2024-2025)
 
 ### Members:
 - Julian Cadenas
